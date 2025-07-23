@@ -1,6 +1,6 @@
 # 🤝 NEXO Event Matching System
 
-A sophisticated B2B networking event scheduler for the fitness industry, built for the NEXO 2023 event (May 18-19, 2023).
+A sophisticated B2B networking event scheduler for the fitness industry, built for the NEXO 2025 event (September 25-30, 2025).
 
 ## 🎯 Overview
 

@@ -74,7 +74,7 @@ def main():
     
     # Header
     st.markdown('<h1 class="main-header">🤝 NEXO Event Matching System</h1>', unsafe_allow_html=True)
-    st.markdown('<p style="text-align: center; font-size: 1.1rem; color: #666; margin-bottom: 2rem;">B2B Networking Event Scheduler for Fitness Industry - May 18-19, 2023</p>', unsafe_allow_html=True)
+    st.markdown('<p style="text-align: center; font-size: 1.1rem; color: #666; margin-bottom: 2rem;">B2B Networking Event Scheduler for Fitness Industry - September 25-30, 2025</p>', unsafe_allow_html=True)
     
     # Sidebar
     st.sidebar.header("🔧 Navigation")
